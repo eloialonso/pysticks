@@ -1,0 +1,3 @@
+_target_: game.Game
+nb_sticks: 17
+max_pick: 4

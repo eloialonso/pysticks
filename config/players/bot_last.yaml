@@ -1,0 +1,7 @@
+player1:
+    _target_: player.HumanPlayer
+    name: "Player1"
+
+player2:
+    _target_: player.BotPlayer
+    name: "Player2"

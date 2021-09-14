@@ -1,0 +1,11 @@
+game:
+  _target_: game.Game
+  nb_sticks: 15
+  max_pick: 3
+players:
+  player1:
+    _target_: player.HumanPlayer
+    name: Player1
+  player2:
+    _target_: player.BotPlayer
+    name: Player2
