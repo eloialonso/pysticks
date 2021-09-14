@@ -1,7 +1,7 @@
 import os
 
-from player import Player
-from sticks import Sticks
+from pysticks.player import Player
+from pysticks.sticks import Sticks
 
 
 class Game:

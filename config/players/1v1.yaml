@@ -1,7 +1,7 @@
 player1:
-    _target_: player.HumanPlayer
+    _target_: pysticks.HumanPlayer
     name: "Player1"
 
 player2:
-    _target_: player.HumanPlayer
+    _target_: pysticks.HumanPlayer
     name: "Player2"

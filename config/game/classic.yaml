@@ -1,3 +1,3 @@
-_target_: game.Game
+_target_: pysticks.Game
 nb_sticks: 15
 max_pick: 3
